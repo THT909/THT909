@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Trầm Hiệp Thành</h1>
+[![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1MDg2ODEsIm5iZiI6MTcwNTUwODM4MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDE2MTk0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3YmY4YWQ4NWM5ZmJhZTgzYjNhYTg4MjUxYTM0ZGIxNjVmNTNiOTZhZWE0ODQ1NzQ2MTJlYzBjM2ZiZTc1MDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dKK6uLzYsXgspa9C2FdBrrWrgE0yuXr1bwLGKQjPfPE)](https://rishavchanda.io)
+0<h1 align="center">Hi 👋, I'm Trầm Hiệp Thành</h1>
 <h3 align="center">I am a recent graduate in Information Technology, eager to continuously expand my experience and knowledge. I am a well-rounded individual with a keen interest in the Information Technology field, particularly in roles like Developer. I am actively seeking a position related to Development in a professional work environment.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tht909&label=Profile%20views&color=0e75b6&style=flat" alt="tht909" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tht909&show_icons=true&locale=en" alt="tht909" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tht909&" alt="tht909" /></p>
-
