@@ -2,7 +2,6 @@
 <h1 align="center" ><img   src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hiệp+Thành!;I'm+web+Developer" /> </h1>
 <h3 align="center">I am a recent graduate in Information Technology, eager to continuously expand my experience and knowledge. I am a well-rounded individual with a keen interest in the Information Technology field, particularly in roles like Developer. I am actively seeking a position related to Development in a professional work environment.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 
